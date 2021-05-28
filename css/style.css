@@ -173,11 +173,12 @@ header {
    .chatarea-main .chatarea-outer .chatbot{
         background-color: red;
         width: 90vw;
-        height: 8vh;
+        height: 15vh;
         position:fixed;
         right:0;
         bottom: 35%;
         overflow-x: scroll;
+        font-size: 15px;
    
  }
 
